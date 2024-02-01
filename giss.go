@@ -1,4 +1,4 @@
-package fancy
+package giss
 
 import (
 	"encoding/json"
